@@ -19,6 +19,8 @@
       <Setting name="Gallery.SiteRoot" />
       <Setting name="Gallery.ValidationKey" />
       <Setting name="Gallery.DecryptionKey" />
+      <Setting name="reCAPTCHA::PrivateKey" />
+      <Setting name="reCAPTCHA::PublicKey" />
     </ConfigurationSettings>
     <Sites>
       <Site name="Web">
